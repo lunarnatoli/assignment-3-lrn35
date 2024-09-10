@@ -1,6 +1,6 @@
 ---
-title: "index.rmd"
-author: "Will Hooker"
+title: "Website!"
+author: "Will and Luna"
 date: "2024-09-10"
 output: html_document
 ---
