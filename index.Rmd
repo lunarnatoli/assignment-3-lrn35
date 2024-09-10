@@ -8,3 +8,4 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+![San Ysidro](https://www.americansouthwest.net/new_mexico/photographs700/anticline.jpg)
