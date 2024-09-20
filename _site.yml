@@ -1,16 +1,16 @@
-output_dir: "."
 navbar:
+  title: "Our Collaborative Website"
   left:
     - text: "Home"
       href: index.html
     - text: "Luna"
       href: luna.html
     - text: "Will"
-      href: will.html  
+      href: will.html
 output_dir: "."
 output:
   html_document:
-    theme: cerulean
+    theme: darkly
     highlight: textmate
     toc: true 
     toc_float: true 
