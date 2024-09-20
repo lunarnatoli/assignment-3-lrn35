@@ -2,10 +2,10 @@ name: "our-website"
 navbar:
   title: "Our Collaborative Website"
   left:
-    - text: "Cars"
+    - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Will"
+      href: will.html
 output_dir: "."
 output:
   html_document:

@@ -1,0 +1,15 @@
+---
+title: "Will's Page"
+author: "Will Hooker"
+date: "2024-09-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## All About Will!
+* First-year Ph.D. student in Geological Sciences
+* Enjoy hiking, fossil collecting, and making art
+* Just started learning how to woodwork!
