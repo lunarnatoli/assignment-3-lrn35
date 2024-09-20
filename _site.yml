@@ -1,11 +1,12 @@
-name: "our-website"
+output_dir: "."
 navbar:
-  title: "Our Collaborative Website"
   left:
     - text: "Home"
       href: index.html
+    - text: "Luna"
+      href: luna.html
     - text: "Will"
-      href: will.html
+      href: will.html  
 output_dir: "."
 output:
   html_document:
